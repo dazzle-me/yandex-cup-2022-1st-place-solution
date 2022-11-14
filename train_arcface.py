@@ -99,7 +99,7 @@ set_seed(CONFIG['seed'])
 
 import os
 import os.path as osp
-ROOT_DIR = '../data'
+ROOT_DIR = './data'
 TRAIN_DIR = osp.join(ROOT_DIR, 'train_features')
 TEST_DIR = osp.join(ROOT_DIR, 'test_features')
 if __name__ == '__main__':
