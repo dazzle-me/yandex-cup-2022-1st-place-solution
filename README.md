@@ -1,6 +1,8 @@
 # yandex-cup-2022-1st-place-solution
 1st place solution of ML Audio Content track of Yandex Cup 2022
 
+UPD: links to the LB/competition will be posted soon D:
+
 ### Hardware
 ```
 GPU: 1x4090
