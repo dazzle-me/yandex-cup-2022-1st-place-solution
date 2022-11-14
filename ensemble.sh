@@ -1,4 +1,4 @@
-python3 ensemble.py --data-root ../data/ \
+python3 ensemble.py --data-root ./data/ \
                     --exp-root ./exps \
                     --exp exp141 \
                     --device cuda:0 \
