@@ -21,6 +21,7 @@ NVIDIA Driver Version: 520.56.06
 ├── ensemble.py
 ├── ensemble.sh
 ├── exps
+├── prepare_env.sh
 ├── requirements.txt
 ├── train_arcface.py
 ├── train.sh
