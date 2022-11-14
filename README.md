@@ -33,7 +33,7 @@ Download and unzip data to ```./data/``` dir inside project root
 
 ### Install reqs
 
-```pip install -r requirements.txt```
+```bash prepare_env.sh ```
 
 ### Train model
 
